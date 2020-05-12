@@ -1,0 +1,39 @@
+body { 
+  background: url('http://bgfons.com/uploads/brick/brick_texture1884.jpg');
+  background-size: 100wh 100vh;
+  font-family: Glasgow;
+  height: 100vh;
+}
+
+.menu {
+  background-image: url('https://mcdn.wallpapersafari.com/medium/33/96/IByH4L.jpg');
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+}
+
+a {
+  color: White;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  color: Whitesmoke;
+  text-align: center;
+}
+
+h2 {
+  color: White;
+  text-align: center;
+  font-style: italic;
+}
